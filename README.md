@@ -1,1 +1,1 @@
-pintos grossos
+pintos grossose 
